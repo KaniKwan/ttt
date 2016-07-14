@@ -1,16 +1,1 @@
-1111111111111111111111111111111111
-22222
-memo2
-555
-memo3
-666
-memo:4
-
-ddff
-memo:5
-hahahaha
-memo:6
-888888888888888888888888888
-memo:7
-master:aaaaaa
-fenzhi: fea
+master:1.delete all content
